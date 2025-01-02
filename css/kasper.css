@@ -430,6 +430,7 @@ header .form i {
 .protfolio .shuffle li:hover {
   background-color: var(--main-color);
   color: white;
+  cursor: pointer;
 }
 .protfolio .shuffle li.active {
   background-color: var(--main-color);
